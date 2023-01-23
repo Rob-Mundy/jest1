@@ -1,3 +1,7 @@
+/**
+ * @jest-environment jsdom
+ */
+
 //const { test } = require("picomatch");
 //const { describe } = require("yargs");
 const addition = require("../calc");
